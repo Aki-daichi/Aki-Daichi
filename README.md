@@ -17,7 +17,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa **Jurusan Teknik Ko
 
 ## Proyek dan Kontribusi 👯
 
-Dalam kegiatan PKL di Jakarta Selatan saya telah mengerjakan suati projek kecil
+Dalam kegiatan PKL di Jakarta Selatan saya telah mengerjakan suatu projek kecil
 
 - **PT. INFOMEDIA SOLUSI HUMANIKA**
 Built a prototype of Inventory DBMS | 2022
