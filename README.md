@@ -13,13 +13,14 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa **Jurusan Teknik Ko
 ## Pendidikan 📖
 
 - **Software Engineering Major** di **SMK Angkasa Husein Sastra Negara Bandung** | 2019 - 2023
+- **Sarjana Terapan (D4) Jurusan Teknik Komputer dan Informatika** di **Politeknik Negeri Bandung (POLBAN)** | Sejak Tahun 2023
 
 ## Proyek dan Kontribusi 👯
 
-Dalam kegiatan PKL di Jakarta Selatan saya telah mengerjakan suatu projek kecil
-
 - **PT. INFOMEDIA SOLUSI HUMANIKA**
 Built a prototype of Inventory DBMS | 2022
+
+- **Himpunan Mahasiswa Jurusan Komputer Unit Teknologi** Ketua Divisi Pengembangan aplikasi HIMAKOM SuperAPP | Sejak Tahun 2025
 
 ## Menghubungi Saya 📫
 
