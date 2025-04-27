@@ -6,10 +6,9 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa **Jurusan Teknik Ko
 
 ## Kepakaran ⚡ 
 
-- **Bahasa Computer**: Pengalaman dalam menggunakan bahasa HTML, PHP, dan CSS.
+- **Bahasa**: Pengalaman dalam menggunakan bahasa HTML, PHP, dan CSS.
 - **Sistem database**: Memiliki pengalaman dengan MySQL sistem database.
 - **Designer UI/UX**: Membuat prototype untuk menguji dan memvalidasi desain sebelum diimplementasikan.
-- Mampu menggunakan beberapa perangkat Microsoft seperti **Word**, **Power Point**, dan **Access**
 
 ## Pendidikan 📖
 
